@@ -1,6 +1,6 @@
-### Project Overview - Interactive Navigation Menu
+# Project Overview - Interactive Navigation Menu
 
-#### Project Description:
+## Project Description:
 This project aims to develop an interactive navigation menu for Prodigy InfoTech's website. The navigation menu will be dynamically styled, with fixed positioning and visibility on all pages. The goal is to enhance user experience through engaging visual elements that respond to scrolling and hovering actions.
 
 #### Final implementation of the site:
@@ -13,7 +13,7 @@ This project aims to develop an interactive navigation menu for Prodigy InfoTech
 ![Screenshot (1185)](https://github.com/RashidHasan/PRODIGY_WD_01/assets/136935583/3c27dd5a-7f21-4b0c-addd-4a3cef016789)
 ![Screenshot (1186)](https://github.com/RashidHasan/PRODIGY_WD_01/assets/136935583/836947b5-f266-4c09-a369-ccd0a496b963)
 
-#### Project Requirements:
+## Project Requirements:
 1. **Interactive Navigation Menu:**
     - Create a responsive navigation menu that reacts to user actions, providing an engaging and interactive experience.
 
@@ -36,7 +36,7 @@ This project aims to develop an interactive navigation menu for Prodigy InfoTech
 6. **Specific Interactivity:**
     - Utilize JavaScript to dynamically alter menu aspects, such as background color and font color, enhancing the visual appeal and responsiveness.
 
-#### Step-by-Step Approach:
+## Step-by-Step Approach:
 
 1. **HTML Structure:**
     - Develop the HTML structure for the navigation menu, encompassing the required HTML tags for menu items.
