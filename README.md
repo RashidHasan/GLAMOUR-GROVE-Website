@@ -1,4 +1,4 @@
-# Project Overview - Interactive Navigation Menu
+# Project Overview - Interactive Navigation Menu (GLAMOUR GROVE)
 
 ## Project Description:
 This project aims to develop an interactive navigation menu for a website, task 1 for training at Prodigy InfoTech. The navigation menu will be designed dynamically, with consistent placement and visibility across all pages. The goal is to enhance the user experience through engaging visuals that respond to swipe and swipe actions.
